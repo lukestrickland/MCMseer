@@ -1,0 +1,9 @@
+Package: MCMseer
+Title: Utility functions for working with Bayesian models.
+Version: 0.0.0.9000
+Authors@R: person("Luke", "Strickland", email = "lukestrickland@hotmail.com", role = c("aut", "cre"))
+Description: This package is designed to work with bayesian posterior samples obtained by MCMC sampling. Utility functions include diagnostics, assessments of model fit, and assessments of posterior distributions.
+Depends: R (>= 3.4.0), msm, coda, loo, hypergeo, statmod, pracma, numDeriv, vioplot, ggplot2
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
