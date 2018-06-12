@@ -1,4 +1,4 @@
-Package: MCMseer
+Package: mcmseer
 Title: Utility functions for working with Bayesian models.
 Version: 0.0.0.9000
 Authors@R: person("Luke", "Strickland", email = "lukestrickland@hotmail.com", role = c("aut", "cre"))
